@@ -1,5 +1,3 @@
-# Jakub Kulikowski ID07TC2 16919 AZ2_Projekt
-
 # Deklaracja zmiennych
 $Indeks = 16919
 $base_folder_Path = "C:\wit\"
